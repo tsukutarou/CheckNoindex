@@ -48,7 +48,7 @@ def CheckNoindex(PageURL):
 
 
 if __name__=="__main__":
-     
+
      #テスト
      CheckNoindex("https://tsukutarou.com/entry/noindex")
      CheckNoindex("https://tsukutarou.com/entry/yesindex")
